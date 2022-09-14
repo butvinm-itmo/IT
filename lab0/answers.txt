@@ -1,0 +1,79 @@
+Variant: (30 + 2) % 40 = 32
+
+1
+A: 64073
+From: 10
+To: 7
+Answer: 354542
+
+2
+A: 31234
+From: 5
+To: 10
+Answer: 2069
+
+3
+A: B0524
+From: 13
+To: 7
+Answer: 2451334
+
+4
+A: 95,73
+From: 10
+To: 2
+Answer: 1011111.10111
+
+5
+A: EA,D9
+From: 16
+To: 2
+Answer: 11101010.11011
+
+6
+A: 41,17
+From: 8
+To: 2
+Answer: 100001.00111
+
+7
+A: 0,100001
+From: 2
+To: 16
+Answer: 0.84
+
+8
+A: 0,000001
+From: 2
+To: 10
+Answer: 0.01562
+
+9
+A: 45,19
+From: 16
+To: 10
+Answer: 69.09765 
+
+10
+A: 232
+From: 10
+To: Факт
+Answer: 14220  
+
+11
+A: 1001001
+From: Фиб
+To: 10
+Answer: 27
+
+12:
+A: 1000000010
+From: Fib
+To: 10
+Answer: 91
+
+13:
+A: 1786
+From: -10
+To: 10
+Answer:  -374
