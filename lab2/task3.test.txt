@@ -1,0 +1,15 @@
+bryanw@outlook.com|outlook.com
+haddawy@yahoo.ca|yahoo.ca
+anicolao@icloud|FAIL
+bjornk@comcast.net|comcast.net
+dbindel@me.com|me.com
+drjlaw@mac.com|mac.com
+daveewart@ver000izon.net|FAIL
+mrsam@comcast.net|comcast.net
+doormat@com.cast.net|com.cast.net
+seeb\\\\s@att.net|FAIL
+donev@gmail.com|gmail.com
+do83838__..nev@gmail.com|gmail.com
+students.spam@yandex.ru|yandex.ru
+example@example|FAIL
+example@example.com|example.com
