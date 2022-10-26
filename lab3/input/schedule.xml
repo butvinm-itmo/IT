@@ -1,0 +1,68 @@
+<WeekDay>
+    <name>Tuesday</name>
+    <lessons>
+        <Lesson>
+            <start-time>8:20</start-time>
+            <end-time>09:50</end-time>
+            <week>3, 7, 9, 11, 13, 15, 17</week>
+            <classroom>Актовый зал</classroom>
+            <campus>ул.Ломоносова, д.9, лит. М</campus>
+            <subject>ИНФОРМАТИКА(ЛЕК)</subject>
+            <teacher>Балакшин Павел Валерьевич</teacher>
+            <format>Очно - дистанционный</format>
+        </Lesson>
+        <Lesson>
+            <start-time>8:20</start-time>
+            <end-time>09:50</end-time>
+            <week>5</week>
+            <classroom>Актовый зал</classroom>
+            <campus>ул.Ломоносова, д.9, лит. М</campus>
+            <subject>ИНФОРМАТИКА(ЛЕК)</subject>
+            <teacher>Балакшин Павел Валерьевич</teacher>
+            <format>Очно - дистанционный</format>
+        </Lesson>
+
+
+        <Lesson>
+            <start-time>10:00</start-time>
+            <end-time>11:30</end-time>
+            <week>3, 7, 9, 11, 13, 15, 17</week>
+            <classroom>Актовый зал</classroom>
+            <campus>ул.Ломоносова, д.9, лит. М</campus>
+            <subject>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК)</subject>
+            <teacher>Клименков Сергей Викторович</teacher>
+            <format>Очно - дистанционный</format>
+        </Lesson>
+        <Lesson>
+            <start-time>10:00</start-time>
+            <end-time>11:30</end-time>
+            <week>5</week>
+            <classroom></classroom>
+            <campus></campus>
+            <subject>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК)</subject>
+            <teacher>Клименков Сергей Викторович</teacher>
+            <format>Дистанционный</format>
+        </Lesson>
+
+        <Lesson>
+            <start-time>11:40</start-time>
+            <end-time>13:10</end-time>
+            <week>3, 7, 9, 11, 13, 15, 17</week>
+            <classroom>1223 АУД.</classroom>
+            <campus>ул.Ломоносова, д.9, лит. М</campus>
+            <subject>ПРОГРАММИРОВАНИЕ(ЛЕК)</subject>
+            <teacher>Письмак Алексей Евгеньевич</teacher>
+            <format>Очно - дистанционный</format>
+        </Lesson>
+        <Lesson>
+            <start-time>11:40</start-time>
+            <end-time>13:10</end-time>
+            <week>5</week>
+            <classroom></classroom>
+            <campus></campus>
+            <subject>ПРОГРАММИРОВАНИЕ(ЛЕК)</subject>
+            <teacher>Письмак Алексей Евгеньевич</teacher>
+            <format>Дистанционный</format>
+        </Lesson>
+    </lessons>
+</WeekDay>
