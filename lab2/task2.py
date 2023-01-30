@@ -21,7 +21,7 @@ def remove_duplicates(string: str) -> str:
 
 
 if __name__ == '__main__':
-    with open('task2.test.txt', 'r') as f:
+    with open('task2.test.txt', 'r', encoding='utf-8') as f:
         for line in f:
             mistaken, correct = line.split('|')
             mistaken, correct = mistaken.strip(), correct.strip()

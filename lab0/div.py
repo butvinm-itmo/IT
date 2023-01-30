@@ -100,9 +100,14 @@ def convert_from_neg(n: str, from_base: int, to_base: int):
     r = 0
     l = len(n)
     for i, a in enumerate(n):
-        r +=  int(a) * from_base**(l - i - 1) 
+        r += int(a) * from_base**(l - i - 1) 
 
     return r
+
+print(convert_from_neg('2018', -10, 10))
+
+# print(convert_from_fib('10010010101', 10))
+# print(convert_from_fact('108', 10))
 
 # print(convert_R('41,17', 8, 2)) # 6
 # print(convert_R('0,100001', 2, 16)) # 7
@@ -111,6 +116,6 @@ def convert_from_neg(n: str, from_base: int, to_base: int):
 # print(convert_to_fact('232', 10)) # 10
 # print(convert_from_fib('1001001', 10)) # 11
 # print(convert_from_fib('1000000010', 10)) # 12
-print(convert_from_neg('1786', -10, 10)) # 13
+# print(convert_from_neg('1786', -10, 10)) # 13
 
 

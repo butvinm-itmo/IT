@@ -1,197 +1,197 @@
 <Schedule>
-    <group>P3130</group>
-    <Week>
-        <type>Нечетная</type>
-        <WeekDay>
-            <name>Monday</name>
-            <lessons>
-                <Lesson>
-                    <start-time>8:20</start-time>
-                    <end-time>09:50</end-time>
-                    <week>3, 7, 9, 11, 13, 15, 17</week>
-                    <classroom>Актовый зал</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ИНФОРМАТИКА(ЛЕК)</subject>
-                    <teacher>Балакшин Павел Валерьевич</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-            </lessons>
-        </WeekDay>
-        <WeekDay>
-            <name>Tuesday</name>
-            <lessons>
-                <Lesson>
-                    <start-time>8:20</start-time>
-                    <end-time>09:50</end-time>
-                    <week>3, 7, 9, 11, 13, 15, 17</week>
-                    <classroom>Актовый зал</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ИНФОРМАТИКА(ЛЕК)</subject>
-                    <teacher>Балакшин Павел Валерьевич</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-                <Lesson>
-                    <start-time>8:20</start-time>
-                    <end-time>09:50</end-time>
-                    <week>5</week>
-                    <classroom>Актовый зал</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ИНФОРМАТИКА(ЛЕК)</subject>
-                    <teacher>Балакшин Павел Валерьевич</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-                <Lesson>
-                    <start-time>10:00</start-time>
-                    <end-time>11:30</end-time>
-                    <week>3, 7, 9, 11, 13, 15, 17</week>
-                    <classroom>Актовый зал</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК)</subject>
-                    <teacher>Клименков Сергей Викторович</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-                <Lesson>
-                    <start-time>10:00</start-time>
-                    <end-time>11:30</end-time>
-                    <week>5</week>
-                    <classroom></classroom>
-                    <campus></campus>
-                    <subject>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК)</subject>
-                    <teacher>Клименков Сергей Викторович</teacher>
-                    <format>Дистанционный</format>
-                </Lesson>
-                <Lesson>
-                    <start-time>11:40</start-time>
-                    <end-time>13:10</end-time>
-                    <week>3, 7, 9, 11, 13, 15, 17</week>
-                    <classroom>1223 АУД.</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ПРОГРАММИРОВАНИЕ(ЛЕК)</subject>
-                    <teacher>Письмак Алексей Евгеньевич</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-                <Lesson>
-                    <start-time>11:40</start-time>
-                    <end-time>13:10</end-time>
-                    <week>5</week>
-                    <classroom></classroom>
-                    <campus></campus>
-                    <subject>ПРОГРАММИРОВАНИЕ(ЛЕК)</subject>
-                    <teacher>Письмак Алексей Евгеньевич</teacher>
-                    <format>Дистанционный</format>
-                </Lesson>
-            </lessons>
-        </WeekDay>
-        <WeekDay>
-            <name>Wednesday</name>
-            <lessons>
-                <Lesson>
-                    <start-time>8:20</start-time>
-                    <end-time>09:50</end-time>
-                    <week>3, 7, 9, 11, 13, 15, 17</week>
-                    <classroom>Актовый зал</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ИНФОРМАТИКА(ЛЕК)</subject>
-                    <teacher>Балакшин Павел Валерьевич</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-            </lessons>
-        </WeekDay>
-        <WeekDay>
-            <name>Thursday</name>
-            <lessons>
-                <Lesson>
-                    <start-time>8:20</start-time>
-                    <end-time>09:50</end-time>
-                    <week>3, 7, 9, 11, 13, 15, 17</week>
-                    <classroom>Актовый зал</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ИНФОРМАТИКА(ЛЕК)</subject>
-                    <teacher>Балакшин Павел Валерьевич</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-            </lessons>
-        </WeekDay>
-        <WeekDay>
-            <name>Friday</name>
-            <lessons>
-                <Lesson>
-                    <start-time>8:20</start-time>
-                    <end-time>09:50</end-time>
-                    <week>3, 7, 9, 11, 13, 15, 17</week>
-                    <classroom>Актовый зал</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ИНФОРМАТИКА(ЛЕК)</subject>
-                    <teacher>Балакшин Павел Валерьевич</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-            </lessons>
-        </WeekDay>
-    </Week>
-    <Week>
-        <type>Четная</type>
-        <WeekDay>
-            <name>Monday</name>
-            <lessons>
-                <Lesson>
-                    <start-time>8:20</start-time>
-                    <end-time>09:50</end-time>
-                    <week>3, 7, 9, 11, 13, 15, 17</week>
-                    <classroom>Актовый зал</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ИНФОРМАТИКА(ЛЕК)</subject>
-                    <teacher>Балакшин Павел Валерьевич</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-            </lessons>
-        </WeekDay>
-        <WeekDay>
-            <name>Tuesday</name>
-        </WeekDay>
-        <WeekDay>
-            <name>Wednesday</name>
-            <lessons>
-                <Lesson>
-                    <start-time>8:20</start-time>
-                    <end-time>09:50</end-time>
-                    <week>3, 7, 9, 11, 13, 15, 17</week>
-                    <classroom>Актовый зал</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ИНФОРМАТИКА(ЛЕК)</subject>
-                    <teacher>Балакшин Павел Валерьевич</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-            </lessons>
-        </WeekDay>
-        <WeekDay>
-            <name>Thursday</name>
-            <lessons>
-                <Lesson>
-                    <start-time>8:20</start-time>
-                    <end-time>09:50</end-time>
-                    <week>3, 7, 9, 11, 13, 15, 17</week>
-                    <classroom>Актовый зал</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ИНФОРМАТИКА(ЛЕК)</subject>
-                    <teacher>Балакшин Павел Валерьевич</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-            </lessons>
-        </WeekDay>
-        <WeekDay>
-            <name>Friday</name>
-            <lessons>
-                <Lesson>
-                    <start-time>8:20</start-time>
-                    <end-time>09:50</end-time>
-                    <week>3, 7, 9, 11, 13, 15, 17</week>
-                    <classroom>Актовый зал</classroom>
-                    <campus>ул.Ломоносова, д.9, лит. М</campus>
-                    <subject>ИНФОРМАТИКА(ЛЕК)</subject>
-                    <teacher>Балакшин Павел Валерьевич</teacher>
-                    <format>Очно - дистанционный</format>
-                </Lesson>
-            </lessons>
-        </WeekDay>
-    </Week>
+<group>P3130</group>
+<Week>
+<type>Нечетная</type>
+<WeekDay>
+<name>Monday</name>
+<lessons>
+<Lesson>
+<start-time>8:20</start-time>
+<end-time>09:50</end-time>
+<week>3, 7, 9, 11, 13, 15, 17</week>
+<room>Актовый зал</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ИНФОРМАТИКА(ЛЕК)</subject>
+<teacher>Балакшин Павел Валерьевич</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+</lessons>
+</WeekDay>
+<WeekDay>
+<name>Tuesday</name>
+<lessons>
+<Lesson>
+<start-time>8:20</start-time>
+<end-time>09:50</end-time>
+<week>3, 7, 9, 11, 13, 15, 17</week>
+<room>Актовый зал</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ИНФОРМАТИКА(ЛЕК)</subject>
+<teacher>Балакшин Павел Валерьевич</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+<Lesson>
+<start-time>8:20</start-time>
+<end-time>09:50</end-time>
+<week>5</week>
+<room>Актовый зал</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ИНФОРМАТИКА(ЛЕК)</subject>
+<teacher>Балакшин Павел Валерьевич</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+<Lesson>
+<start-time>10:00</start-time>
+<end-time>11:30</end-time>
+<week>3, 7, 9, 11, 13, 15, 17</week>
+<room>Актовый зал</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК)</subject>
+<teacher>Клименков Сергей Викторович</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+<Lesson>
+<start-time>10:00</start-time>
+<end-time>11:30</end-time>
+<week>5</week>
+<room></room>
+<campus></campus>
+<subject>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК)</subject>
+<teacher>Клименков Сергей Викторович</teacher>
+<format>Дистанционный</format>
+</Lesson>
+<Lesson>
+<start-time>11:40</start-time>
+<end-time>13:10</end-time>
+<week>3, 7, 9, 11, 13, 15, 17</week>
+<room>1223 АУД.</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ПРОГРАММИРОВАНИЕ(ЛЕК)</subject>
+<teacher>Письмак Алексей Евгеньевич</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+<Lesson>
+<start-time>11:40</start-time>
+<end-time>13:10</end-time>
+<week>5</week>
+<room></room>
+<campus></campus>
+<subject>ПРОГРАММИРОВАНИЕ(ЛЕК)</subject>
+<teacher>Письмак Алексей Евгеньевич</teacher>
+<format>Дистанционный</format>
+</Lesson>
+</lessons>
+</WeekDay>
+<WeekDay>
+<name>Wednesday</name>
+<lessons>
+<Lesson>
+<start-time>8:20</start-time>
+<end-time>09:50</end-time>
+<week>3, 7, 9, 11, 13, 15, 17</week>
+<room>Актовый зал</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ИНФОРМАТИКА(ЛЕК)</subject>
+<teacher>Балакшин Павел Валерьевич</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+</lessons>
+</WeekDay>
+<WeekDay>
+<name>Thursday</name>
+<lessons>
+<Lesson>
+<start-time>8:20</start-time>
+<end-time>09:50</end-time>
+<week>3, 7, 9, 11, 13, 15, 17</week>
+<room>Актовый зал</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ИНФОРМАТИКА(ЛЕК)</subject>
+<teacher>Балакшин Павел Валерьевич</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+</lessons>
+</WeekDay>
+<WeekDay>
+<name>Friday</name>
+<lessons>
+<Lesson>
+<start-time>8:20</start-time>
+<end-time>09:50</end-time>
+<week>3, 7, 9, 11, 13, 15, 17</week>
+<room>Актовый зал</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ИНФОРМАТИКА(ЛЕК)</subject>
+<teacher>Балакшин Павел Валерьевич</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+</lessons>
+</WeekDay>
+</Week>
+<Week>
+<type>Четная</type>
+<WeekDay>
+<name>Monday</name>
+<lessons>
+<Lesson>
+<start-time>8:20</start-time>
+<end-time>09:50</end-time>
+<week>3, 7, 9, 11, 13, 15, 17</week>
+<room>Актовый зал</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ИНФОРМАТИКА(ЛЕК)</subject>
+<teacher>Балакшин Павел Валерьевич</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+</lessons>
+</WeekDay>
+<WeekDay>
+<name>Tuesday</name>
+</WeekDay>
+<WeekDay>
+<name>Wednesday</name>
+<lessons>
+<Lesson>
+<start-time>8:20</start-time>
+<end-time>09:50</end-time>
+<week>3, 7, 9, 11, 13, 15, 17</week>
+<room>Актовый зал</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ИНФОРМАТИКА(ЛЕК)</subject>
+<teacher>Балакшин Павел Валерьевич</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+</lessons>
+</WeekDay>
+<WeekDay>
+<name>Thursday</name>
+<lessons>
+<Lesson>
+<start-time>8:20</start-time>
+<end-time>09:50</end-time>
+<week>3, 7, 9, 11, 13, 15, 17</week>
+<room>Актовый зал</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ИНФОРМАТИКА(ЛЕК)</subject>
+<teacher>Балакшин Павел Валерьевич</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+</lessons>
+</WeekDay>
+<WeekDay>
+<name>Friday</name>
+<lessons>
+<Lesson>
+<start-time>8:20</start-time>
+<end-time>09:50</end-time>
+<week>3, 7, 9, 11, 13, 15, 17</week>
+<room>Актовый зал</room>
+<campus>ул.Ломоносова, д.9, лит. М</campus>
+<subject>ИНФОРМАТИКА(ЛЕК)</subject>
+<teacher>Балакшин Павел Валерьевич</teacher>
+<format>Очно - дистанционный</format>
+</Lesson>
+</lessons>
+</WeekDay>
+</Week>
 </Schedule>

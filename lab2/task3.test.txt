@@ -13,3 +13,4 @@ do83838__..nev@gmail.com|gmail.com
 students.spam@yandex.ru|yandex.ru
 example@example|FAIL
 example@example.com|example.com
+.@..com|..com

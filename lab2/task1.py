@@ -1,13 +1,13 @@
 # variant 
 # 367945 % 6 == 1 -> Eyes ;
-# 367945 % 5 == 0 -> Nose -
+# 367945 % 4 == 1 -> Nose <
 # 367945 % 7 == 4 -> Mouth \
-# ;-\
+# ;<\
 
 import re
 
 
-EMOJI_PATTERN = r';-\\'
+EMOJI_PATTERN = r';<\\'
 
 
 def count_pattern(string: str, pattern: str) -> int:

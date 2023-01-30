@@ -1,6 +1,6 @@
 from typing import Any, Dict, List, Optional
 from tokens import Token, OpenTag, CloseTag, TagValue
-import yaml
+# import yaml
 
 
 class YamlParser:

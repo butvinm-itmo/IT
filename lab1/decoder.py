@@ -21,8 +21,10 @@ def decode(code: str) -> tuple[str, int]:
     return msg, err_pos
 
 
-
-print(decode('1111011'))
-print(decode('1001110'))
-print(decode('0100001'))
-print(decode('0000111'))
+if __name__ == '__main__':
+    print(decode('1110110'))
+    # print(decode('1111011'))
+    # print(decode('1001110'))
+    # print(decode('0100001'))
+    # print(decode('0000111'))
+    # print(decode('001110010010100'))
